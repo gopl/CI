@@ -4,3 +4,7 @@ package foo
 func F() string {
 	return "foo.F()"
 }
+
+func idle() {
+
+}
